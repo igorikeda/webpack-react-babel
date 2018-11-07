@@ -30,3 +30,13 @@ TODO: Write credits
 ## Licença/License
 
 TODO: Write license
+
+
+## TODO
+
+`    preLoaders: [{
+      test: /\.(js|jsx)$/,
+      exclude: /node_modules/,
+      include: /src/,
+      loader: 'standard'
+    }],`
